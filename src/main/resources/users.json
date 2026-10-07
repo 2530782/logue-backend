@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "username": "admin@poligono.com",
+    "password": "123",
+    "fullName": "Administrador General",
+    "role": "ADMIN"
+  },
+  {
+    "id": 2,
+    "username": "supervisor@poligono.com",
+    "password": "123",
+    "fullName": "Ing. Vicente Romero",
+    "role": "SUPERVISOR"
+  },
+  {
+    "id": 3,
+    "username": "doctor@poligono.com",
+    "password": "123",
+    "fullName": "Dra. María López (Fisioterapia)",
+    "role": "DOCTOR"
+  },
+  {
+    "id": 4,
+    "username": "cliente@poligono.com",
+    "password": "123",
+    "fullName": "Nahum Soto (Egresado)",
+    "role": "CLIENTE"
+  },
+  {
+    "id": 5,
+    "username": "negocio@poligono.com",
+    "password": "123",
+    "fullName": "Barbería & Estética Guadalupe",
+    "role": "NEGOCIO"
+  }
+]
